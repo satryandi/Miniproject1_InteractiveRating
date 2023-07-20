@@ -1,6 +1,6 @@
 # Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-using-css-flexbox-and-javascript-i0t2037Kt1).
+https://www.frontendmentor.io/solutions/interactive-rating-component-using-css-flexbox-and-javascript-i0t2037Kt1
 
 ## Table of contents
 
@@ -32,17 +32,17 @@ Users should be able to:
 ### Screenshot
 
 - Desktop
-![Desktop Rating](design/Results/Screenshot_Desktop_Rating.png)
-![Dekstop Thanks](design/Results/Screenshot_Desktop_Thanks.png)
+Desktop Rating : (design/Results/Screenshot_Desktop_Rating.png)
+Dekstop Thanks : (design/Results/Screenshot_Desktop_Thanks.png)
 
 - Mobile
-![Mobile Rating](design/Results/Screenshot_Mobile_Rating.png)
-![Mobile Thanks](design/Results/Screenshot_Mobile_Thanks.png)
+Mobile Rating : (design/Results/Screenshot_Mobile_Rating.png)
+Mobile Thanks : (design/Results/Screenshot_Mobile_Thanks.png)
 
 ### Links
 
-- Solution URL: [(https://github.com/satryandi/FrontentMentor_InteractiveRatingComponent)]
-- Live Site URL: [(https://satryandi-miniproject1.netlify.app/)]
+- Solution URL: https://github.com/satryandi/FrontentMentor_InteractiveRatingComponent
+- Live Site URL: https://satryandi-miniproject1.netlify.app/
 
 ## My process
 
@@ -145,7 +145,8 @@ Learning, Understanding, and Mastering JavaScript
 
 ### Useful resources
 
-- [W33Schools](https://www.w3schools.com/) - This is a very good article that helped me understand the fundamentals of HTML, CSS, and JavaScript. I would recommend it to anyone who is still learning these concepts.
+- W33Schools : https://www.w3schools.com/
+  - This is a very good article that helped me understand the fundamentals of HTML, CSS, and JavaScript. I would recommend it to anyone who is still learning these concepts.
 
 ## Author
 
