@@ -1,6 +1,6 @@
 # Frontend Mentor - Interactive rating component solution
 
-https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI
+https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI 
 
 ## Table of contents
 
@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Built with
 
-- HTML5
+- HTMl5
 - CSS3
 
 ## Author
 
-- Instagram : https://www.instagram.com/satryandi/
-- LinkedIn : https://www.linkedin.com/in/muhammad-satryandi-ogansyah-261043264/
-- Github : https://github.com/satryandi
-- Frontend Mentor : https://www.frontendmentor.io/profile/satryandi
+- Instagram - [Satryandi](https://www.instagram.com/satryandi/)
+- LinkedIn - [Muhammad Satryandi Ogansyah, S.Kom.](https://www.linkedin.com/in/muhammad-satryandi-ogansyah-261043264/)
+- Github - [Muhammad Satryandi Ogansyah](https://github.com/satryandi)
+- Frontend Mentor - [Satryandi](https://www.frontendmentor.io/profile/satryandi)

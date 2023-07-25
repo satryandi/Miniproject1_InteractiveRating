@@ -140,18 +140,6 @@ body {
     border-radius: 2rem;
 }
 
-.attribution {
-    font-size: var(--fs-paragraph);
-    text-align: center;
-    color: var(--White);
-    margin-top: 2rem;
-    width: 325px;
-}
-
-.attribution a {
-    color: var(--Light-Grey)
-}
-
 .checked {
     background-color: var(--Orange) !important;
     color: var(--White) !important;
